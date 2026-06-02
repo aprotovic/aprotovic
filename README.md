@@ -15,20 +15,21 @@
 ```python
 goitom = {
     "education":  "4th Year Software Engineering @ DBU",
-    "focus":      ["Cybersecurity", "Full Stack Web", "Mobile Dev", "ML"],
+    "focus":      ["Cybersecurity", "Ethical Hacking", "Penetration Testing", "Full Stack Web", "Mobile Dev"],
     "languages":  ["Amharic 🇪🇹 (Native)", "Tigrinya 🇪🇹 (Fluent)", "English 🇬🇧 (Professional)", "German 🇩🇪 (Learning)"],
-    "currently":  "Diving deeper into Ethical Hacking",
-    "open_to":    "Collaborations, Freelance, Open Source",
-    "auf_deutsch": "Ich bin Softwareentwickler und lerne jeden Tag etwas Neues 🇩🇪"
+    "currently":  "Mastering Penetration Testing & Security Analysis",
+    "open_to":    "Security Consulting, Freelance, Open Source",
+    "auf_deutsch": "Ich bin Softwareentwickler und Cybersecurity-Spezialist 🇩🇪"
 }
 ```
 
 - 🎓 4th Year Software Engineering Student at **Debre Birhan University**
-- 🔒 Passionate about **Cybersecurity & Ethical Hacking**
+- 🔒 Passionate about **Cybersecurity, Ethical Hacking & Penetration Testing**
+- 🛡️ Security Analyst & Vulnerability Researcher
 - 🌐 Full Stack Web Developer (**React, Node.js, PHP**)
 - 📱 Mobile Developer (**Flutter & Kotlin Android**)
 - 🐍 Python Developer | ⚛️ React Developer | ☕ Java Developer
-- 🚀 Always learning and building impactful projects
+- 🚀 Always learning and building secure, impactful projects
 
 ---
 
@@ -43,10 +44,13 @@ goitom = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -61,12 +65,27 @@ goitom = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge&logo=android&logoColor=white)
+
+### 🔒 Cybersecurity & Penetration Testing
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-373737?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF6B6B?style=for-the-badge&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-003366?style=for-the-badge&logoColor=white)
+
+### 🧪 Testing & QA
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TestLink](https://img.shields.io/badge/TestLink-003366?style=for-the-badge&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,7 +94,7 @@ goitom = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ---
 
@@ -96,10 +115,13 @@ goitom = {
 
 ```
 🔒 Advanced Cybersecurity & Ethical Hacking
+🛡️  Penetration Testing & Security Analysis
+⚠️  Vulnerability Assessment & Reporting
+🔐 Network Security & Cryptography
+🌐 API Security & Web Application Penetration Testing
 ☁️  Cloud Computing & System Design
-🤖 AI & Machine Learning
 📱 Flutter Development
-🌍 Open Source Contributions
+🌍 Open Source Security Contributions
 ```
 
 ---
@@ -117,7 +139,7 @@ goitom = {
 
 ## 💼 Let's Collaborate!
 
-✨ Open to **freelance projects**, **internships**, and **open-source contributions**  
+✨ Open to **security consulting**, **freelance projects**, **internships**, and **open-source contributions**  
 📧 Reach out: [goitomshumey564@gmail.com](mailto:goitomshumey564@gmail.com)
 
 <p align="center">
