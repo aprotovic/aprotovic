@@ -69,14 +69,6 @@ goitom = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aprotovic&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprotovic&layout=compact&theme=tokyo-night&hide_border=true" width="48%" />
-</div>
-
----
 
 ## 🚀 Featured Projects
 
