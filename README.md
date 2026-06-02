@@ -74,11 +74,11 @@ goitom = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔐 **[Ethio SecurePass](https://github.com/aprotovic)** | Secure password management app focused on privacy | Python, Cryptography |
-| 📰 **[Fake News Detector](https://github.com/aprotovic)** | ML app for detecting fake news articles | Python, ML |
-| 📅 **[Meeting Room Reservation](https://github.com/aprotovic)** | Desktop reservation system | C# |
-| 📱 **[Note Quote App](https://github.com/aprotovic)** | Android productivity app | Kotlin |
-| 🎓 **[DBU Connect](https://github.com/aprotovic)** *(In Progress)* | University platform for students & collaboration | React, Node.js |
+| 🔐 **[Ethio SecurePass]([https://github.com/aprotovic](https://github.com/aprotovic/Ethio-SecurePass))** | Secure password management app focused on privacy | Python, Cryptography |
+| 📰 **[Fake News Detector](https://github.com/aprotovic/Fake-News-Detector)** | ML app for detecting fake news articles | Python, ML |
+| 📅 **[Meeting Room Reservation](https://github.com/aprotovic/MeetingRoomReservation)** | Desktop reservation system | C# |
+| 📱 **[Note Quote App](https://github.com/aprotovic/Note-Quote_App)** | Android productivity app | Kotlin |
+| 🎓 **[DBU Connect](https://github.com/yasino-916/Dbu_connect)** *(In Progress)* | University platform for students & collaboration | React, Node.js |
 
 ---
 
