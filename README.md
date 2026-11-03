@@ -165,10 +165,6 @@ goitom = {
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aprotovic&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
   <i>"Die beste Weise, die Zukunft vorherzusagen, ist, sie zu bauen." — Alan Kay</i>
   <br>
   <i>"The best way to predict the future is to build it." — Alan Kay</i>
