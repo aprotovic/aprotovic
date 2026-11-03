@@ -101,8 +101,16 @@ goitom = {
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🎯 **[Ethio AI Job Matcher](https://github.com/aprotovic/Ethio-ai-Job-Matcher)** | AI job recommendation & resume parsing platform | Python, Streamlit, NLP, TF-IDF |
+| ⚡ **[Spark Churn Prediction](https://github.com/aprotovic/spark_churn_prediction_enhanced)** | Distributed ML customer retention pipeline (84% Acc) | PySpark, MLlib, GBT, Big Data |
+| 🌾 **[Ke Geberew](https://github.com/aprotovic/ke-geberew)** | Multilingual agricultural commerce marketplace (Amharic/English) | React, PHP, MySQL, i18n |
+| 📅 **[DBU Connect Admin Hub](https://github.com/aprotovic/DBU-Connect-Web-Dashboard)** | Campus administration, RSVP tracking & moderation | React, Vite, Supabase, Tailwind |
+| 🏨 **[Haile Resort Network](https://github.com/aprotovic/Haile-Resort-Network)** | 3-tier enterprise network architecture for 500+ nodes | Cisco Packet Tracer, OSPF, ACLs |
+| 🔐 **[RC4 Stream Cipher](https://github.com/aprotovic/rc4-stream-cipher-cpp)** | Educational symmetric stream cipher in C++ (KSA & PRGA) | C++, Applied Cryptography |
+
+---------|-------------|------|
 | 🔐 **[Ethio SecurePass](https://github.com/aprotovic/Ethio-SecurePass)** | Secure password management app focused on privacy | Python, Cryptography |
 | 📰 **[Fake News Detector](https://github.com/aprotovic/Fake-News-Detector)** | ML app for detecting fake news articles | Python, ML |
 | 📅 **[Meeting Room Reservation](https://github.com/aprotovic/MeetingRoomReservation)** | Desktop reservation system | C# |
